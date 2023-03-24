@@ -1,4 +1,4 @@
-package co.edu.uan.android.simpsonsjetpack0323
+package co.edu.uan.android.simpsonsjetpack0323.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

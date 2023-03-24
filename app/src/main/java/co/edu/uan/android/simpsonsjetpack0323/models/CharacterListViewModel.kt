@@ -1,4 +1,4 @@
-package co.edu.uan.android.simpsonsjetpack0323
+package co.edu.uan.android.simpsonsjetpack0323.models
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
